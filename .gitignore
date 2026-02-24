@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+backend/venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Env and secrets
+.env
+.env.local
+*.local
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs and DB (optional: remove sql_app.db to track it)
+*.log
+backend/sql_app.db
+
+# Build output
+frontend/dist/
