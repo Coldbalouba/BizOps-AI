@@ -49,4 +49,12 @@ The system ingests sample data from `data/sample_data.csv` on first startup if t
 
 ---
 
+## Attribution & contributors
+
+All contributions and ownership: **AJ (Ahmed Jouini)**.
+
+See [AUTHORS](AUTHORS) and [CONTRIBUTORS](CONTRIBUTORS) for details.
+
+---
+
 **BizOps AI** — by AJ (Ahmed Jouini).
